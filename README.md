@@ -1,1 +1,3 @@
-# SI_2025_lab1
+ Emri: [Jonida]
+ Prezime: [Pollozhani]
+Broj na indeks: [233201]
