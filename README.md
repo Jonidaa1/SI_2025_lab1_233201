@@ -1,3 +1,2 @@
- Emri: [Jonida]
- Prezime: [Pollozhani]
-Broj na indeks: [233201]
+Jonida Pollozhani 233201
+ 
